@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**aldamr01/aldamr01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Back-End Developer working in Surabaya, Indonesia.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔨 Develop a few [IDN Media](https://www.idn.media/Products) websites
+- 🥾 Do some hike expedition
+- 🐣 Collecting pokemon
+- 🗿 What about this?
+
+##### BIO
+
+- 🏢 I'm currently working at **IDN Media**
+- ⚙️ I use daily: `.py`, `.php`, `.js`, `.html`, `.css`, `.md`
+- 🌱 Learning all about **Open Source**
+- 📫 Reach me: [linkedin.com/aldionamirrul](https://linkedin.com/aldionamirrul)
+- ⚡️ Fun fact: I hate shrimp 🦐
