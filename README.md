@@ -16,3 +16,5 @@
 - 🌱 Learning all about **Open Source**
 - 📫 Reach me: [linkedin.com/aldionamirrul](https://linkedin.com/aldionamirrul)
 - ⚡️ Fun fact: I hate shrimp 🦐
+
+![Aldion's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldamr01&count_private=true&show_icons=true)
