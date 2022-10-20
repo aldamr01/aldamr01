@@ -14,7 +14,7 @@
 - 🏢 I'm currently working at **IDN Media**
 - ⚙️ I use daily: `.py`, `.php`, `.js`, `.html`, `.css`, `.md`
 - 🌱 Learning all about **Open Source**
-- 📫 Reach me: [linkedin.com/aldionamirrul](https://linkedin.com/aldionamirrul)
+- 📫 Reach me: [linkedin.com/in/aldionamirrul](https://linkedin.com/in/aldionamirrul)
 - ⚡️ Fun fact: I hate shrimp 🦐
 
 <code><img height="20" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"></code>
