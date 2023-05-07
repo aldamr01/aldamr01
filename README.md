@@ -19,6 +19,7 @@
 
 <code><img height="20" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"></code>
 <code><img height="20" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"></code>
+<code><img height="20" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></code>
 <code><img height="20" alt="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
 <code><img height="20" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
 <code><img height="20" alt="redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"></code>
