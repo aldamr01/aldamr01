@@ -12,7 +12,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at **IDN Media**
-- ⚙️ I use daily: `.py`, `.php`, `.js`, `.ts`, '.go', `.html`, `.css`, `.md`
+- ⚙️ I use daily: `.py`, `.php`, `.js`, `.ts`, `.go`, `.html`, `.css`, `.md`
 - 🌱 Learning all about **Open Source**
 - 📫 Reach me: [linkedin.com/in/aldionamirrul](https://linkedin.com/in/aldionamirrul)
 - ⚡️ Fun fact: I wouldn't say I like shrimp 🦐
